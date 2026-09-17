@@ -19,7 +19,7 @@
   --line:#eadfd5;
   --shadow:0 24px 70px rgba(62,39,25,.13);
 }
-*{box-sizing:border-box;margin:0;padding:0}
+*{box-sizing:border-box;margin:23%;padding:0}
 html{scroll-behavior:smooth}
 body{font-family:"DM Sans",sans-serif;background:var(--cream);color:var(--ink);line-height:1.6}
 a{text-decoration:none;color:inherit}
