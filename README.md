@@ -1,12 +1,10 @@
 <html lang="en">
-<head>
+
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="description" content="Velvet Crumb - handcrafted premium cakes baked fresh for every celebration.">
 <title>Velvet Crumb | Premium Cakes & Desserts</title>
-<style>
 @import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Playfair+Display:wght@400;500;600&display=swap');
-
 :root{
   --cream:#fffaf3;
   --paper:#fffdf9;
@@ -17,8 +15,7 @@
   --rose:#ead4ca;
   --gold:#c79b62;
   --line:#eadfd5;
-  --shadow:0 24px 70px rgba(62,39,25,.13);
-}
+  --shadow:0 24px 70px rgba(62,39,25,.13)}
 *{box-sizing:border-box;margin:23%;padding:0}
 html{scroll-behavior:smooth}
 body{font-family:"DM Sans",sans-serif;background:var(--cream);color:var(--ink);line-height:1.6}
