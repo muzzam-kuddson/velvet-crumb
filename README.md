@@ -5,7 +5,7 @@
 <meta name="description" content="Velvet Crumb - handcrafted premium cakes baked fresh for every celebration.">
 <title>Velvet Crumb | Premium Cakes & Desserts</title>
 <style>
-@import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Playfair+Display:wght@500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Playfair+Display:wght@400;500;600&display=swap');
 
 :root{
   --cream:#fffaf3;
