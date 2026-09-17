@@ -177,7 +177,6 @@ footer{padding:35px 0;border-top:1px solid var(--line);font-size:13px;color:var(
       <div class="cake-photo" aria-label="Premium chocolate cake"></div>
       <div class="badge">Baked fresh<br>every morning<br>✦</div>
       </div>
-</section>
 <section class="section" id="cakes">
   <div class="container">
     <div class="section-head">
